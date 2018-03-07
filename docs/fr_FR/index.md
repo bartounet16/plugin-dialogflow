@@ -4,7 +4,7 @@ Le plugin dialogflow permet de connecter Jeedom à Google Home/Assitant par une 
 
 > **NOTE**
 >
-> Il existe aussi le plugin Google Smarthome qui permet de connecter Jeedom à Google Home/Assitant mais cette fois par le bias de l'intégration Smarthome de Google, celui-ci n'utilise donc pas les intéractions. CE PLUGIN N'EST PAS ENCORE DISPONIBLE
+> Il existe aussi le plugin Google Smarthome qui permet de connecter Jeedom à Google Home/Assitant mais cette fois par le biais de l'intégration Smarthome de Google, celui-ci n'utilise donc pas les intéractions. CE PLUGIN N'EST PAS ENCORE DISPONIBLE
 
 # Configuration
 
@@ -57,17 +57,17 @@ Pour s'en servir rien de plus simple il faut aller sur la page de configuration 
 
 # Remise à zéro de la configuration
 
-Si vous avez mis une mauvais URL ou clef API ou un changement d'url ou de clef API il faut faire un reset de la configuration puis refaire la procedure de connexion voila comment faire.
+Si vous avez mis une mauvaise URL ou clef API ou un changement d'url ou de clef API il faut faire un reset de la configuration puis refaire la procedure de connexion voila comment faire.
 
 Allez sur le market et corriger l'information, attendre 24h (il faut absolument que la configuration passe en actif).
 
-Ensuite sur l'application Google Assistante, dites "Parler à Jeedom" puis "Supprimer configuration". L'application devrait vous dire que la configuration est supprimée avec succès. Ensuite refaite la procedure de connexion.
+Ensuite sur l'application Google Assistante, dites "Parler à Jeedom" puis "Supprimer configuration". L'application devrait vous dire que la configuration est supprimée avec succès. Ensuite refaite la procédure de connexion.
 
 # FAQ
 
 >**Google me dit que l'application n'est pas disponible**
 >
->L'application est pour l'instant limité géographiquement à la métropole France. Nous l'ouvrir dans un second après les premiers retour
+>L'application est pour l'instant limitée géographiquement à la métropole France. Nous l'ouvrir dans un second après les premiers retour
 
 >**J'ai l'erreur ESOCKETTIMEDOUT**
 >
@@ -83,4 +83,4 @@ Ensuite sur l'application Google Assistante, dites "Parler à Jeedom" puis "Supp
 
 >**A chaque demande Google vous indique que votre configuration a bien été mise à jour**
 >
->C'est que Google ne reconnait pas votre voix il vous considere donc comme un nouvelle utilisateur. Pour corriger vous pouvez essayer de reconfigurer voice match.
+>C'est que Google ne reconnait pas votre voix il vous considere donc comme un nouvel utilisateur. Pour corriger vous pouvez essayer de reconfigurer voice match.
